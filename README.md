@@ -1,5 +1,9 @@
 # The Printer Apology
 
+[![make.fun · u-eager-stork-81-9647-the-printer-apology-60229153](https://make.fun/badge/u-eager-stork-81-9647-the-printer-apology-60229153.svg)](https://make.fun/bounty/u-eager-stork-81-9647-the-printer-apology-60229153?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-the-printer-apology-60229153)
+[![rank](https://make.fun/badge/u-eager-stork-81-9647-the-printer-apology-60229153/minhvo7332/u-eager-stork-81-9647-the-printer-apology-60229153/rank.svg)](https://make.fun/bounty/u-eager-stork-81-9647-the-printer-apology-60229153/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-the-printer-apology-60229153)
+[![reward](https://make.fun/badge/u-eager-stork-81-9647-the-printer-apology-60229153/minhvo7332/u-eager-stork-81-9647-the-printer-apology-60229153/reward.svg)](https://make.fun/bounty/u-eager-stork-81-9647-the-printer-apology-60229153?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-the-printer-apology-60229153)
+
 make.fun bounty `u-eager-stork-81-9647-the-printer-apology-60229153` — program/v1.
 
 `main.py` writes one line to `/output/entry.txt`: an apology note from an
